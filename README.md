@@ -1,6 +1,6 @@
-# Rime_luna_pinyin_simp_mac
+# Rime 鼠须管 明月拼音简化版本 macos 无脑配置
 
-mac squirrel luna pinyin simple 鼠须管 明月拼音简化版本 无脑配置
+mac squirrel luna pinyin simple 鼠须管 明月拼音简化版本 自己mark
 
 ## 配置结果：
 
@@ -34,5 +34,5 @@ mac squirrel luna pinyin simple 鼠须管 明月拼音简化版本 无脑配置
 * extend.dict.yaml 里面可以自己加习惯的用语词组，格式参照已经添加的词组。
 * 官网doc天下第一
 
-## 仍有疑惑
+## 若有疑惑
 * 提issue，佛系登上来看
